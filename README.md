@@ -47,4 +47,4 @@ This assignment includes solutions and explanations for exercises and problems f
 ---
 
 ## How to Use This Repository
-- **[Assignment.pdf](Assignment # 1.pdf)** - The main assignment document in PDF format, containing detailed answers and explanations for all questions.
+- **[Assignment.pdf]([Assignment # 1.pdf](https://github.com/Ayesha-Jadoon/Data-Structures-Assignment-1/blob/main/Assignment%20%23%201.pdf))** - The main assignment document in PDF format, containing detailed answers and explanations for all questions.
